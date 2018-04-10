@@ -1,6 +1,6 @@
 {
-  "short_name": "Face Recognition",
-  "name": "Detect faces in images",
+  "short_name": "Demographics Analyzer",
+  "name": "Demographics Analyzer",
   "start_url": "./index.html",
   "display": "standalone",
   "theme_color": "#000000",

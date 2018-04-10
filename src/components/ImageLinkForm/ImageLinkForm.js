@@ -1,6 +1,5 @@
 import React from 'react';
 import './ImageLinkForm.css';
-import { ClipLoader } from 'react-spinners';
 
 const ImageLinkForm = ({ onChange, onSubmit }) => {
     return (
