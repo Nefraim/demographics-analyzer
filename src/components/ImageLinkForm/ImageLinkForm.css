@@ -1,0 +1,16 @@
+.image-link-form {
+    display: inline-block;
+    margin-bottom: 4rem;
+}
+
+.intro {
+    font-variant: small-caps;
+}
+
+.input-form {
+    display: flex;
+}
+
+button {
+    border: 0px;
+}

@@ -1,0 +1,14 @@
+.mw {  
+    max-width: 24rem;
+}
+
+main {
+    position: relative;
+}
+
+.loader {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+}

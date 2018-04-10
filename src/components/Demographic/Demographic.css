@@ -1,0 +1,34 @@
+#image-holder{
+    position: relative;
+}
+
+.bounding-box {
+    position: absolute;
+    box-shadow: 0 0 0 3px #149df2 inset;
+    cursor: pointer;
+}
+
+.pv5 {
+    padding-top: 0;
+    padding-bottom: 4rem;
+}
+
+.result {
+    animation: fadein 1.5s;
+}
+
+.list-values {
+    animation: fadein 1.5s;
+}
+
+@keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+@media screen and (min-width: 30em) {
+    .pv5 {
+        padding-top: 0;
+        padding-bottom: 4rem;
+    }
+}
